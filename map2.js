@@ -2,7 +2,7 @@
     '{"nome": "Borracha","preco": 3.45}',
     '{"nome": "Caderno","preco": 13.90}',
     '{"nome": "kit lapis","preco": 41.22}',
-    '{"nome": "caneta","preco": 7.50}'
+    '{"nome": "lapis","preco": 7.50}'
  ]
     const paraObjeto = json => JSON.parse(json)
 
